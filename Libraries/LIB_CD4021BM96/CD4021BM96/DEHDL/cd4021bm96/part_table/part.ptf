@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CD4021BM96'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "CD4021BM96" (!) = "", "SOIC127P600X175-16N", "Small Outline Packages", "595-CD4021BM96", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CD4021BM96?qs=vmM6vcLFxxF7B4lvHkHOug%3D%3D", "CMOS 8-Stage Static Shift Register", "http://www.ti.com/lit/gpn/CD4021B", "1.75 mm"
+END_PART
+
+END.

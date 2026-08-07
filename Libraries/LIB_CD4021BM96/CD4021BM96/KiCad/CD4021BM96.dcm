@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CD4021BM96
+D CMOS 8-Stage Static Shift Register
+K
+F http://www.ti.com/lit/gpn/CD4021B
+$ENDCMP
+#
+#End Doc Library

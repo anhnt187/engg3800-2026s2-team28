@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=CD4021BM96
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=1.1
+Released=2021-04-28 06:05:26
+Downloaded=2026-08-05 07:37:36
+3D=Y

@@ -1,0 +1,16 @@
+.CD4021BM96 :1 ;CMOS 8-Stage Static Shift Register
+SOIC127P600X175-16N
+*STM IC
+*NGS
+*PLB 1="PI-8" 2="Q6" 3="Q8" 4="PI-4" 5="PI-3" 6="PI-2" 7="PI-1" 8="VSS" 9="PARALLEL/SERIAL CONTROL" 10="CLOCK" 11="SERIAL IN" 12="Q7" 13="PI-5" 14="PI-6" 15="PI-7" 16="VDD"
+*MXP 16
+*DFN CD4021BM96
+~!Mouser Part Number (595-CD4021BM96)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CD4021BM96?qs=vmM6vcLFxxF7B4lvHkHOug%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (CD4021BM96)
+~!Link Datasheet (http://www.ti.com/lit/gpn/CD4021B)
+~!Height (1.75mm)
+~!3D_Model (CD4021BM96)
+CD4021BM96
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 
