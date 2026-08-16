@@ -1,0 +1,12 @@
+Added Component: Designator=J3(FTSH-105-01-L-DV-K)
+Add component (AddParameter): Name = "CID"; Value = "23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FTSH-105-01-L-DV-K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=J3-1
+Added Pin To Net: NetName=SWDIO Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=SWCLK Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=SWO Pin=J3-6
+Added Pin To Net: NetName=\u\R\S\T Pin=J3-10
+Added Member To Class: ClassName=Control Member=Component J3 23

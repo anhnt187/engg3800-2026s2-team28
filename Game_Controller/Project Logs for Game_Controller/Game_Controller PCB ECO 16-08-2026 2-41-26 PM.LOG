@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=GND Pin=C1_NES BUTTON11-2
+Removed Pin From Net: NetName=GND Pin=C1_NES BUTTON12-2
+Removed Pin From Net: NetName=GND Pin=PB1_NES BUTTON11-1
+Removed Pin From Net: NetName=GND Pin=PB1_NES BUTTON12-1
+Removed Pin From Net: NetName=+3V3 Pin=R1_NES BUTTON11-2
+Removed Pin From Net: NetName=+3V3 Pin=R1_NES BUTTON12-2
+Removed Member From Class: ClassName=SNES_PB[1..12] Member=SNES_PB11
+Removed Member From Class: ClassName=SNES_PB[1..12] Member=SNES_PB12
+Removed Member From Class: ClassName=Push_Button Member=NES BUTTON11
+Removed Member From Class: ClassName=Push_Button Member=NES BUTTON12
+Added Component: Designator=C21_NES _Shoulder_BUTTON1(0603_CAP)
+Add component (AddParameter): Name = "CID"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603JRX7R9BB104"; VariantName = "[No Variations]"
+Added Component: Designator=C21_NES _Shoulder_BUTTON2(0603_CAP)
+Add component (AddParameter): Name = "CID"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603JRX7R9BB104"; VariantName = "[No Variations]"
+Added Component: Designator=PB3_NES _Shoulder_BUTTON1(SHOULDER_PB)
+Add component (AddParameter): Name = "CID"; Value = "27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Custom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "Custom"; VariantName = "[No Variations]"
+Added Component: Designator=PB3_NES _Shoulder_BUTTON2(SHOULDER_PB)
+Add component (AddParameter): Name = "CID"; Value = "27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Custom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "Custom"; VariantName = "[No Variations]"
+Added Component: Designator=R18_NES _Shoulder_BUTTON1(0603_RES)
+Add component (AddParameter): Name = "CID"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AC0603DRE0710KL"; VariantName = "[No Variations]"
+Added Component: Designator=R18_NES _Shoulder_BUTTON2(0603_RES)
+Add component (AddParameter): Name = "CID"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AC0603DRE0710KL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C21_NES _Shoulder_BUTTON1-2
+Added Pin To Net: NetName=GND Pin=C21_NES _Shoulder_BUTTON2-2
+Added Pin To Net: NetName=GND Pin=PB3_NES _Shoulder_BUTTON1-1
+Added Pin To Net: NetName=GND Pin=PB3_NES _Shoulder_BUTTON2-1
+Added Pin To Net: NetName=+3V3 Pin=R18_NES _Shoulder_BUTTON1-2
+Added Pin To Net: NetName=+3V3 Pin=R18_NES _Shoulder_BUTTON2-2
+Added Pin To Net: NetName=SNES_AUX_PB1 Pin=C21_NES _Shoulder_BUTTON1-1
+Added Pin To Net: NetName=SNES_AUX_PB1 Pin=PB3_NES _Shoulder_BUTTON1-2
+Added Pin To Net: NetName=SNES_AUX_PB1 Pin=R18_NES _Shoulder_BUTTON1-1
+Added Pin To Net: NetName=SNES_AUX_PB1 Pin=U1-32
+Added Net: Name=SNES_AUX_PB1
+Added Pin To Net: NetName=SNES_AUX_PB2 Pin=C21_NES _Shoulder_BUTTON2-1
+Added Pin To Net: NetName=SNES_AUX_PB2 Pin=PB3_NES _Shoulder_BUTTON2-2
+Added Pin To Net: NetName=SNES_AUX_PB2 Pin=R18_NES _Shoulder_BUTTON2-1
+Added Pin To Net: NetName=SNES_AUX_PB2 Pin=U1-33
+Added Net: Name=SNES_AUX_PB2
+Change Class Name : Old Net Name=SNES_PB[1..12] New Net Name=SNES_PB[1..10]
+Added Class: Name=NES _Shoulder_BUTTON1
+Added Class: Name=NES _Shoulder_BUTTON2
+Added Class: Name=SNES_AUX_PB[1..2]
+Added Class: Name=SNES_Shoulder_Button

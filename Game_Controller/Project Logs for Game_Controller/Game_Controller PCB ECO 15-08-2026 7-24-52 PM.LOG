@@ -1,0 +1,15 @@
+Change Physical Footprint: Designator=J3 Old Footprint=FTSH-105-01-L-DV-K New Footprint=FTSH-105-01-L-DV-K
+Change Physical Footprint: Designator=PB1_NES BUTTON1 Old Footprint=SNES_PB New Footprint=SNES_PB
+Change Physical Footprint: Designator=PB1_NES BUTTON2 Old Footprint=SNES_PB New Footprint=SNES_PB
+Change Physical Footprint: Designator=PB1_NES BUTTON3 Old Footprint=SNES_PB New Footprint=SNES_PB
+Change Physical Footprint: Designator=PB1_NES BUTTON4 Old Footprint=SNES_PB New Footprint=SNES_PB
+Change Physical Footprint: Designator=PB1_NES BUTTON5 Old Footprint=SNES_PB New Footprint=SNES_PB
+Change Physical Footprint: Designator=PB1_NES BUTTON6 Old Footprint=SNES_PB New Footprint=SNES_PB
+Change Physical Footprint: Designator=PB1_NES BUTTON7 Old Footprint=SNES_PB New Footprint=SNES_PB
+Change Physical Footprint: Designator=PB1_NES BUTTON8 Old Footprint=SNES_PB New Footprint=SNES_PB
+Change Physical Footprint: Designator=PB1_NES BUTTON9 Old Footprint=SNES_PB New Footprint=SNES_PB
+Change Physical Footprint: Designator=PB1_NES BUTTON10 Old Footprint=SNES_PB New Footprint=SNES_PB
+Change Physical Footprint: Designator=PB1_NES BUTTON11 Old Footprint=SNES_PB New Footprint=SNES_PB
+Change Physical Footprint: Designator=PB1_NES BUTTON12 Old Footprint=SNES_PB New Footprint=SNES_PB
+Change Physical Footprint: Designator=PB2 Old Footprint=TACTILE_PB New Footprint=TACTILE_PB
+Change Physical Footprint: Designator=U1 Old Footprint=LQFP48-7x7mm New Footprint=LQFP48-7x7mm

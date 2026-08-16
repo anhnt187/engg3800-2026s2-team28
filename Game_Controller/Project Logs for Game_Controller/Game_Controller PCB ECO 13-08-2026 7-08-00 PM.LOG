@@ -1,0 +1,17 @@
+Added Component: Designator=BZ1(PIEZO)
+Add component (AddParameter): Name = "CID"; Value = "22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PKLCS1212E2000-R1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBZ1_1 Pin=BZ1-1
+Added Pin To Net: NetName=GND Pin=BZ1-2
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Add Pin To Net: Unknown Pin: Pin J3-6
+Add Pin To Net: Unknown Pin: Pin J3-10
+Added Member To Class: ClassName=Control Member=Component BZ1 22
+Add Class Member: Failed to add class member : Component J3 FTSH-105-01-L-DV-K

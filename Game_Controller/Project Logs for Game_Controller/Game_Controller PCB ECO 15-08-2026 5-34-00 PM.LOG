@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetF1_1 Pin=J1-A9
+Removed Pin From Net: NetName=GND Pin=J1-A12
+Removed Pin From Net: NetName=NetF1_1 Pin=J1-B9
+Removed Pin From Net: NetName=GND Pin=J1-B12
+Removed Pin From Net: NetName=GND Pin=J1-S1
+Removed Pin From Net: NetName=GND Pin=J1-S2
+Removed Pin From Net: NetName=GND Pin=J1-S3
+Removed Pin From Net: NetName=GND Pin=J1-S4
+Change Component Footprint: Designator=J1 Old Footprint=USBC_PD New Footprint=FP-217176-0001-MFG
+Change Component Comment : Designator=J1 Old Comment=USB C PD Header New Comment=217176-0001
+Change Managed Component Library Link : Designator=J1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=14D373E4-5FDE-4ED1-9B4D-D57E9C59A952 Old RevisionGUID= New RevisionGUID=6B90E53E-CB1A-4C9A-B394-BA00570E52A0
+Change component parameters: Designator = "J1" ("J1"); Footprint = "USBC_PD"; UniqueID = "\JQWQYWLQ" ("\JQWQYWLQ")
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-C1
+Added Pin To Net: NetName=NetF1_1 Pin=J1-C2
+Added Pin To Net: NetName=NetF1_1 Pin=J1-C5
+Added Pin To Net: NetName=GND Pin=J1-C6
+Added Pin To Net: NetName=NetJ1_C3 Pin=J1-C3
+Added Pin To Net: NetName=NetJ1_C3 Pin=R3-2
+Added Net: Name=NetJ1_C3
+Added Pin To Net: NetName=NetJ1_C4 Pin=J1-C4
+Added Pin To Net: NetName=NetJ1_C4 Pin=R2-2
+Added Net: Name=NetJ1_C4

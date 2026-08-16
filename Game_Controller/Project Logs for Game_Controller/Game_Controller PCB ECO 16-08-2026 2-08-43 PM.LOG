@@ -1,0 +1,6 @@
+Change Component Comment : Designator=J3 Old Comment=23 New Comment=10 Pin Header
+Change component parameters: Designator = "J3" ("J3"); Footprint = "SHF-105-01-L-D-TH"; UniqueID = "\LMYVEICX\FFLSOUGD" ("\LMYVEICX\FFLSOUGD")
+Change component parameters (AddParameter): Name = "CID"; Value = "26"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SHF-105-01-L-D-TH"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Control Member=Component J3 10 Pin Header

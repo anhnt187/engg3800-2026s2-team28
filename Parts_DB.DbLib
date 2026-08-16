@@ -1,18 +1,18 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\morte\Documents\GitHub\engg3800-2026s2-team28\Parts_DB.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\morte\Documents\GitHub\engg3800-2026s2-team28\Game_Controller\Libraries\Components.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Excel 2007
-LibraryDatabasePath=Parts_DB.xlsx
+LibraryDatabasePath=Game_Controller\Libraries\Components.xlsx
 DatabasePathRelative=1
 TopPanelCollapsed=0
 LibrarySearchPath=
@@ -26,6 +26,9 @@ TableName=Parts_DB$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=CID0=48|Description0=383|Library Ref0=116|Footprint Ref0=105|Library Path0=155|Footprint Path0=114|Manufacturer0=115|Manufacturer Part Number0=191
 [FieldMap1]
 Options=FieldName=Parts_DB$.CID|TableNameOnly=Parts_DB$|FieldNameOnly=CID|FieldType=0|ParameterName=CID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

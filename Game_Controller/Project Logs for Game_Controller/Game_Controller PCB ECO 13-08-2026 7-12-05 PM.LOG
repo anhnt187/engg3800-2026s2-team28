@@ -1,0 +1,15 @@
+Added Component: Designator=J2(B2B-PH-K-S)
+Add component (AddParameter): Name = "CID"; Value = "18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B2B-PH-K-S"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF2_1 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Add Pin To Net: Unknown Pin: Pin J3-6
+Add Pin To Net: Unknown Pin: Pin J3-10
+Added Member To Class: ClassName=Game_Controller Member=Component J2 Molex Connector
+Add Class Member: Failed to add class member : Component J3 FTSH-105-01-L-DV-K
