@@ -1,0 +1,72 @@
+Removed Member From Class: ClassName=SNES_Shoulder_Button Member=NES _Shoulder_BUTTON1
+Removed Member From Class: ClassName=SNES_Shoulder_Button Member=NES _Shoulder_BUTTON2
+Removed Member From Class: ClassName=Push_Button Member=NES BUTTON1
+Removed Member From Class: ClassName=Push_Button Member=NES BUTTON2
+Removed Member From Class: ClassName=Push_Button Member=NES BUTTON3
+Removed Member From Class: ClassName=Push_Button Member=NES BUTTON4
+Removed Member From Class: ClassName=Push_Button Member=NES BUTTON5
+Removed Member From Class: ClassName=Push_Button Member=NES BUTTON6
+Removed Member From Class: ClassName=Push_Button Member=NES BUTTON7
+Removed Member From Class: ClassName=Push_Button Member=NES BUTTON8
+Removed Member From Class: ClassName=Push_Button Member=NES BUTTON9
+Removed Member From Class: ClassName=Push_Button Member=NES BUTTON10
+Change Component Designator: OldDesignator=C1_NES BUTTON1 NewDesignator=C1_PB1
+Change Component Designator: OldDesignator=C1_NES BUTTON2 NewDesignator=C1_PB2
+Change Component Designator: OldDesignator=C1_NES BUTTON3 NewDesignator=C1_PB3
+Change Component Designator: OldDesignator=C1_NES BUTTON4 NewDesignator=C1_PB4
+Change Component Designator: OldDesignator=C1_NES BUTTON5 NewDesignator=C1_PB5
+Change Component Designator: OldDesignator=C1_NES BUTTON6 NewDesignator=C1_PB6
+Change Component Designator: OldDesignator=C1_NES BUTTON7 NewDesignator=C1_PB7
+Change Component Designator: OldDesignator=C1_NES BUTTON8 NewDesignator=C1_PB8
+Change Component Designator: OldDesignator=C1_NES BUTTON9 NewDesignator=C1_PB9
+Change Component Designator: OldDesignator=C1_NES BUTTON10 NewDesignator=C1_PB10
+Change Component Designator: OldDesignator=C21_NES _Shoulder_BUTTON1 NewDesignator=C21_PBS1
+Change Component Designator: OldDesignator=C21_NES _Shoulder_BUTTON2 NewDesignator=C21_PBS2
+Change Component Designator: OldDesignator=PB1_NES BUTTON1 NewDesignator=PB1_PB1
+Change Component Designator: OldDesignator=PB1_NES BUTTON2 NewDesignator=PB1_PB2
+Change Component Designator: OldDesignator=PB1_NES BUTTON3 NewDesignator=PB1_PB3
+Change Component Designator: OldDesignator=PB1_NES BUTTON4 NewDesignator=PB1_PB4
+Change Component Designator: OldDesignator=PB1_NES BUTTON5 NewDesignator=PB1_PB5
+Change Component Designator: OldDesignator=PB1_NES BUTTON6 NewDesignator=PB1_PB6
+Change Component Designator: OldDesignator=PB1_NES BUTTON7 NewDesignator=PB1_PB7
+Change Component Designator: OldDesignator=PB1_NES BUTTON8 NewDesignator=PB1_PB8
+Change Component Designator: OldDesignator=PB1_NES BUTTON9 NewDesignator=PB1_PB9
+Change Component Designator: OldDesignator=PB1_NES BUTTON10 NewDesignator=PB1_PB10
+Change Component Designator: OldDesignator=PB3_NES _Shoulder_BUTTON1 NewDesignator=PB3_PBS1
+Change Component Designator: OldDesignator=PB3_NES _Shoulder_BUTTON2 NewDesignator=PB3_PBS2
+Change Component Designator: OldDesignator=R1_NES BUTTON1 NewDesignator=R1_PB1
+Change Component Designator: OldDesignator=R1_NES BUTTON2 NewDesignator=R1_PB2
+Change Component Designator: OldDesignator=R1_NES BUTTON3 NewDesignator=R1_PB3
+Change Component Designator: OldDesignator=R1_NES BUTTON4 NewDesignator=R1_PB4
+Change Component Designator: OldDesignator=R1_NES BUTTON5 NewDesignator=R1_PB5
+Change Component Designator: OldDesignator=R1_NES BUTTON6 NewDesignator=R1_PB6
+Change Component Designator: OldDesignator=R1_NES BUTTON7 NewDesignator=R1_PB7
+Change Component Designator: OldDesignator=R1_NES BUTTON8 NewDesignator=R1_PB8
+Change Component Designator: OldDesignator=R1_NES BUTTON9 NewDesignator=R1_PB9
+Change Component Designator: OldDesignator=R1_NES BUTTON10 NewDesignator=R1_PB10
+Change Component Designator: OldDesignator=R18_NES _Shoulder_BUTTON1 NewDesignator=R18_PBS1
+Change Component Designator: OldDesignator=R18_NES _Shoulder_BUTTON2 NewDesignator=R18_PBS2
+Change Class Name : Old Net Name=NES _Shoulder_BUTTON1 New Net Name=PBS1
+Change Class Name : Old Net Name=NES _Shoulder_BUTTON2 New Net Name=PBS2
+Change Class Name : Old Net Name=NES BUTTON1 New Net Name=PB1
+Change Class Name : Old Net Name=NES BUTTON2 New Net Name=PB2
+Change Class Name : Old Net Name=NES BUTTON3 New Net Name=PB3
+Change Class Name : Old Net Name=NES BUTTON4 New Net Name=PB4
+Change Class Name : Old Net Name=NES BUTTON5 New Net Name=PB5
+Change Class Name : Old Net Name=NES BUTTON6 New Net Name=PB6
+Change Class Name : Old Net Name=NES BUTTON7 New Net Name=PB7
+Change Class Name : Old Net Name=NES BUTTON8 New Net Name=PB8
+Change Class Name : Old Net Name=NES BUTTON9 New Net Name=PB9
+Change Class Name : Old Net Name=NES BUTTON10 New Net Name=PB10
+Added Member To Class: ClassName=Push_Button Member=PB1 (Push_Button.SchDoc)
+Added Member To Class: ClassName=Push_Button Member=PB2 (Push_Button.SchDoc)
+Added Member To Class: ClassName=Push_Button Member=PB3 (Push_Button.SchDoc)
+Added Member To Class: ClassName=Push_Button Member=PB4 (Push_Button.SchDoc)
+Added Member To Class: ClassName=Push_Button Member=PB5 (Push_Button.SchDoc)
+Added Member To Class: ClassName=Push_Button Member=PB6 (Push_Button.SchDoc)
+Added Member To Class: ClassName=Push_Button Member=PB7 (Push_Button.SchDoc)
+Added Member To Class: ClassName=Push_Button Member=PB8 (Push_Button.SchDoc)
+Added Member To Class: ClassName=Push_Button Member=PB9 (Push_Button.SchDoc)
+Added Member To Class: ClassName=Push_Button Member=PB10 (Push_Button.SchDoc)
+Added Member To Class: ClassName=SNES_Shoulder_Button Member=PBS1 (SNES_Shoulder_Button.SchDoc)
+Added Member To Class: ClassName=SNES_Shoulder_Button Member=PBS2 (SNES_Shoulder_Button.SchDoc)
