@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=V_BAT Pin=F2-2
+Added Component: Designator=R19(0603_RES)
+Add component (AddParameter): Name = "CID"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0603BRD0746K4L"; VariantName = "[No Variations]"
+Added Component: Designator=R20(0603_RES)
+Add component (AddParameter): Name = "CID"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0603BRD0746K4L"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D4-3
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=NetD4_1 Pin=R19-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetF2_2 Pin=F2-2
+Added Net: Name=NetF2_2
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=R20-1
+Added Net: Name=NetR19_2
+Add Class Member: Failed to add class member : Component D4 5.6V Zener Diode
+
+Add Class Member: Failed to add class member : Component Q1 P Channel MOSFET
+
+Added Member To Class: ClassName=Game_Controller Member=Component R19 46.4k ± 0.1%
+100 mW 
+0603
+Added Member To Class: ClassName=Game_Controller Member=Component R20 46.4k ± 0.1%
+100 mW 
+0603

@@ -1,0 +1,15 @@
+Added Component: Designator=D4(SOT23-3)
+Add component (AddParameter): Name = "CID"; Value = "29"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BZX84C5V6-E3-08"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT23-3)
+Add component (AddParameter): Name = "CID"; Value = "28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SI2301CDS-T1-E3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=V_BAT Pin=D4-3
+Added Pin To Net: NetName=NetD4_1 Pin=Q1-1
+Added Pin To Net: NetName=V_BAT Pin=Q1-2
+Added Pin To Net: NetName=NetF2_2 Pin=Q1-3
+Added Member To Class: ClassName=Game_Controller Member=Component D4 5.6V Zener Diode
+Added Member To Class: ClassName=Game_Controller Member=Component Q1 P Channel MOSFET
