@@ -1,0 +1,47 @@
+Removed Member From Class: ClassName=Bluetooth Member=D1
+Removed Member From Class: ClassName=Charger Member=D1
+Removed Member From Class: ClassName=Charger Member=R5
+Removed Member From Class: ClassName=Control Member=R14
+Removed Member From Class: ClassName=Bluetooth Member=R17
+Removed Member From Class: ClassName=Bluetooth Member=R18
+Removed Member From Class: ClassName=Bluetooth Member=R19
+Removed Member From Class: ClassName=Control Member=R22
+Change Footprint: Footprint Not Found FID
+Change Footprint: Footprint Not Found FID
+Change Footprint: Footprint Not Found FID
+Change Footprint: Footprint Not Found FID
+Change Footprint: Footprint Not Found FID
+Change Footprint: Footprint Not Found FID
+Added Member To Class: ClassName=Bluetooth Member=Component D2 LED GREEN
+Added Member To Class: ClassName=Charger Member=Component D3 LED GREEN
+Added Member To Class: ClassName=Charger Member=Component D4 LED RED
+Added Member To Class: ClassName=Control Member=Component R6 10k ± 0.5%
+100 mW 
+0603
+Added Member To Class: ClassName=Control Member=Component R7 10k ± 0.5%
+100 mW 
+0603
+Added Member To Class: ClassName=Control Member=Component R8 10k ± 0.5%
+100 mW 
+0603
+Added Member To Class: ClassName=Control Member=Component R10 1.13k ± 1%
+100 mW 
+0603
+Added Member To Class: ClassName=Bluetooth Member=Component R11 0R ± 1%
+25 mW 
+0204
+Added Member To Class: ClassName=Bluetooth Member=Component R12 0R ± 1%
+25 mW 
+0204
+Added Member To Class: ClassName=Bluetooth Member=Component R13 1.13k ± 1%
+100 mW 
+0603
+Added Member To Class: ClassName=Charger Member=Component R15 1.13k ± 1%
+100 mW 
+0603
+Added Member To Class: ClassName=Charger Member=Component R16 10k ± 0.5%
+100 mW 
+0603
+Added Member To Class: ClassName=Charger Member=Component R20 10k ± 0.5%
+100 mW 
+0603

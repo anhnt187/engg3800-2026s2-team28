@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=BUZZER_PWM Pin=U1-22
+Removed Member From Class: ClassName=Game_Controller Member=J4
+Removed Member From Class: ClassName=Buzzer Member=LED1
+Removed Member From Class: ClassName=Charger Member=TP1
+Removed Member From Class: ClassName=Bluetooth Member=U4
+Change Footprint: Footprint Not Found FID
+Change Footprint: Footprint Not Found FID
+Change Footprint: Footprint Not Found FID
+Change Footprint: Footprint Not Found FID
+Change Footprint: Footprint Not Found FID
+Change Footprint: Footprint Not Found FID
+Added Member To Class: ClassName=Buzzer Member=Component D3 5.6V Zener Diode
+Added Member To Class: ClassName=Game_Controller Member=Component J2 61300211121
+Added Member To Class: ClassName=Game_Controller Member=Component J3 Molex Connector
+Added Member To Class: ClassName=Charger Member=Component TP6 TEST POINT
+Added Member To Class: ClassName=Bluetooth Member=Component U2 HC05
+Added Member To Class: ClassName=Charger Member=Component U3 Battery Management System

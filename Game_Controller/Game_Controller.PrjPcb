@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=v1
 
 [Preferences]
 PrefsVaultGUID=
@@ -118,6 +119,23 @@ GenerateClassCluster=0
 DocumentUniqueId=OWXAAHJD
 
 [Document5]
+DocumentPath=sch\MCU.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document6]
 DocumentPath=sch\BLT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +152,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ORPXMFWE
 
-[Document6]
+[Document7]
 DocumentPath=sch\Charging_Circuit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +169,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XHRHMEPB
 
-[Document7]
+[Document8]
 DocumentPath=Libraries\Components.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +186,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document9]
 DocumentPath=Libraries\Game_Controller.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +203,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UJFPNSIB
 
-[Document9]
+[Document10]
 DocumentPath=Libraries\Game_Controller.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,25 +220,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFQAKQBD
 
-[Document10]
-DocumentPath=sch\BLT.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [Document11]
-DocumentPath=sch\MCU.Harness
+DocumentPath=sch\BLT.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -270,6 +271,59 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document14]
+DocumentPath=Game_Controller.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document15]
+DocumentPath=sch\Buzzer.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CRDWMKOD
+
+[ProjectVariant1]
+UniqueId=1b46d84a-a097-4da9-83f0-7e58661463fc
+Description=v1
+AllowFabrication=0
+ParameterCount=0
+VariationCount=11
+Variation1=Designator=C2|UniqueId=\LMYVEICX\WTGWSGVW|Kind=1|AlternatePart=
+Variation2=Designator=R12|UniqueId=\VWQJKTZL\MLUZDDVV|Kind=1|AlternatePart=
+Variation3=Designator=C11|UniqueId=\VWQJKTZL\MDHBPZCE|Kind=1|AlternatePart=
+Variation4=Designator=C12|UniqueId=\VWQJKTZL\GPLKGEDQ|Kind=1|AlternatePart=
+Variation5=Designator=R15|UniqueId=\CGUICJLH\CXGEZXNV|Kind=1|AlternatePart=
+Variation6=Designator=R17|UniqueId=\CGUICJLH\SGSSCBOW|Kind=1|AlternatePart=
+Variation7=Designator=D3|UniqueId=\CGUICJLH\OAQQGWSI|Kind=1|AlternatePart=
+Variation8=Designator=D4|UniqueId=\CGUICJLH\VUVHKZRV|Kind=1|AlternatePart=
+Variation9=Designator=D5|UniqueId=\VDPNKJZV\AFWAMHTA|Kind=1|AlternatePart=
+Variation10=Designator=R14|UniqueId=\VWQJKTZL\VPCSEBTS|Kind=1|AlternatePart=
+Variation11=Designator=D2|UniqueId=\VWQJKTZL\BAKVVEDX|Kind=1|AlternatePart=
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Game_Controller\Design Rule Check - Game_Controller.html
 DItemRevisionGUID=
@@ -286,7 +340,7 @@ ConfigurationType=Source
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
-AutoOpenOutJob=-1
+AutoOpenOutJob=0
 
 [Generic_SmartPDFSettings]
 ProjectMode=-1
@@ -297,7 +351,7 @@ AddNetNetLabels=-1
 AddNetPorts=-1
 ShowComponentParameters=-1
 GlobalBookmarks=0
-ExportBOM=-1
+ExportBOM=0
 TemplateFilename=Board Stack Report.XLT
 TemplateStoreRelative=-1
 PCB_PrintColor=0
@@ -314,14 +368,14 @@ Wir_PrintColor=0
 Ldr_PrintColor=0
 Esd_PrintColor=0
 SCH_ExpandLogicalToPhysical=-1
-SCH_VariantName=[No Variations]
+SCH_VariantName=v1
 SCH_ExpandComponentDesignators=-1
-SCH_ExpandNetlabels=0
-SCH_ExpandPorts=0
+SCH_ExpandNetlabels=-1
+SCH_ExpandPorts=-1
 SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
-SaveSettingsToOutJob=-1
+SaveSettingsToOutJob=0
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -639,6 +693,24 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Description=Up|Designator=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Line #=53|Comment=100|Description=100|Designator=100|Revision ID=78|Revision State=103|Revision Status=97|Quantity=66|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
+Configuration1_Name7=VisibleOrder_Base
+Configuration1_Item7=Line #=53|Comment=100|Description=100|Designator=100|Revision ID=78|Revision State=103|Revision Status=97|Quantity=66|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
+Configuration1_Name8=VisibleOrder_Consolidated
+Configuration1_Item8=Line #=100|Comment=100|Description=100|Designator=100|Revision ID=100|Revision State=100|Revision Status=100|Quantity=100|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
+Configuration1_Name9=VisibleOrder_Flat
+Configuration1_Item9=Line #=100|Comment=100|Description=100|Designator=100|Revision ID=100|Revision State=100|Revision Status=100|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
